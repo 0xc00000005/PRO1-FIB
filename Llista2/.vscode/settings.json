@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.defaultProfile.linux":"bash",
+    "terminal.integrated.env.linux": {
+        "LD_PRELOAD": null,
+        "COMP": "/var/home/eas/Documents/UPC/PRO1/compilador.sh"
+    },
+    "files.associations": {
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "iostream": "cpp"
+    },
+}
